@@ -1,0 +1,4 @@
+# omitir directorio de webstorm y archivo vscode
+/.idea
+.vscode
+
